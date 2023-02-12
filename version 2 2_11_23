@@ -1,0 +1,623 @@
+
+<div style="background-color: #F7FAFB; padding: 20px 5px; text-align: center;">
+  <h2 style="font-family: Lato; font-size: 26pt; font-weight: bold; padding-bottom: 10px;">Diversity Voices in the Ecosystem You Should Follow</h2>
+  <p style="font-family: Numans; font-size: 12pt; padding-bottom: 10px;">Having a diverse range of perspectives in the AI ecosystem is critical to promoting fairness, ethical decision-making, and creating equitable outcomes. A diverse AI community brings a wider range of experiences and perspectives, leading to better problem solving, innovation and inclusiveness in the development and deployment of AI technology. By embracing diversity in AI, we can create a more inclusive and equitable future for all.</p>
+  <p style="font-family: Numans; font-size: 12pt; padding-bottom: 10px;">All are mixing business and AI integration driving towards positive outcomes.</p>
+</div>
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
+
+
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
+
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
+
+
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
+
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
+
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
+
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
+
+
+
+<style>
+.square {
+  width: calc(25% - 20px - 15px);
+  height: 300px;
+  background-color: white;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 15px 15px;
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.headshot {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.headshot img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.header {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.job-title {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.social-icons {
+  width: 100%;
+  height: 50%;
+  position: relative;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 15px;
+}
+</style>
+
+<div class="square">
+  <div class="headshot">
+    <img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/a8af4653-17ec-41e2-9fd7-6b480a518bf7.jpeg" alt="headshot1">
+  </div>
+  <h3 class="header">Elizabeth Hannan</h3>
+  <p class="job-title">Head of Product & Design</p>
+  <div class="social-icons">
+  
+  <a href="https://www.twitter.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ee3b69e6-55c7-4246-bb95-0701e127e479.png" alt="Twitter"></a>
+ 
+  <a href="https://www.instagram.com/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/ef2f1797-ba8d-4c77-8384-46288d4e3be5.png" alt="Instagram"></a>   
+  <a href="https://www.linkedin.com/in/elizabethhannan" target="_blank"><img src="https://softr-prod.imgix.net/applications/8938bf9e-4fc5-476d-8dda-40facaab1a43/assets/06faee3e-a288-401d-8fde-8037a84ce883.png" alt="LinkedIn"></a>
+
+  </div>
+  
+</div>
+<!-- repeat the above code block for a total of 12 squares -->
